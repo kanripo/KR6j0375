@@ -1,0 +1,4 @@
+001-0649c00	T 001-0649c	buddhist/T-taisho/T20/06/T20-0649.png
+001-0650a00	T 001-0650a	buddhist/T-taisho/T20/06/T20-0650.png
+001-0650b00	T 001-0650b	buddhist/T-taisho/T20/06/T20-0650.png
+001-0650c00	T 001-0650c	buddhist/T-taisho/T20/06/T20-0650.png
