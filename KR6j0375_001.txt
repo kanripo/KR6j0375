@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:12.022847
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:00
 #+TITLE: 大隨求即得大陀羅尼明王懺悔法
 #+PROPERTY: CBETA_ID T20n1156A
 #+PROPERTY: ID KR6j0375
@@ -19,7 +19,7 @@ No.1156A¶
 法¶
 ¶
 
-隨求八印
+* 隨求八印
 :PROPERTIES:
 :head: 隨求八印
 :END:
